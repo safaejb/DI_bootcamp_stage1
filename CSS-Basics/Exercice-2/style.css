@@ -1,0 +1,16 @@
+.odd {
+  background-color: pink;
+  font-family: Verdana, sans-serif;
+}
+.cooler {
+  font-size: 24px;
+}
+#two {
+  font-size: 36px;
+  color: blue;
+}
+#four {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
